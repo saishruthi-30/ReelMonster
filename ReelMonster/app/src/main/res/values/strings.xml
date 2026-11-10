@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reel Monster</string>
+    <string name="a11y_label">Reel Monster auto counter</string>
+    <string name="a11y_desc">Lets Reel Monster notice when a new reel or short appears in Instagram or YouTube so it can count it for you. Only the count is saved and nothing ever leaves your phone.</string>
+</resources>
